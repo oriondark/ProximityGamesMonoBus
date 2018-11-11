@@ -1,0 +1,7 @@
+{
+  "name": "proximitygames",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
